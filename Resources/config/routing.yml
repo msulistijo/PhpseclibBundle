@@ -1,0 +1,3 @@
+msulistijo_phpseclib_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MsulistijoPhpseclibBundle:Default:index }

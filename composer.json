@@ -1,0 +1,21 @@
+{
+    "name": "msulistijo/phpseclib-bundle",
+    "description": "Symfony 2 Bundle - PHP Secure Communications Library - Pure-PHP implementations of RSA, AES, SSH2, SFTP, X.509 etc.",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Sulistijo",
+            "email": "michael.sulistijo@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.3.3"
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "Msulistijo\\PhpseclibBundle\\": "Utility/"
+        }
+    }
+}

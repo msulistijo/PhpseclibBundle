@@ -1,0 +1,4 @@
+services:
+#    msulistijo_phpseclib.example:
+#        class: Msulistijo\PhpseclibBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
